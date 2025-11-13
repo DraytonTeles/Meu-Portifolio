@@ -23,7 +23,8 @@ span{
     border-radius: 5px;}
 footer{
     text-align: center;
-    color: aqua;
+    color: aliceblue;
+    text-shadow: 2px 2px 5px rgb(75, 74, 16);
 }
 main{
     text-align: center;
@@ -34,8 +35,8 @@ div{
     padding: 5px;
     margin: 10px;
     text-align: center;
-    border: 2px solid rgb(102, 101, 34);
-    box-shadow: 2px 2px 5px rgb(201, 198, 64);
+    border: 2px solid rgb(180, 177, 3);
+    box-shadow: 2px 2px 5px rgb(82, 80, 12);
     border-radius: 7px;
 }
 section{
