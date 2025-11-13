@@ -34,7 +34,8 @@ div{
     padding: 5px;
     margin: 10px;
     text-align: center;
-    border: 2px solid rgb(8, 173, 165);
+    border: 2px solid rgb(102, 101, 34);
+    box-shadow: 2px 2px 5px rgb(201, 198, 64);
     border-radius: 7px;
 }
 section{
